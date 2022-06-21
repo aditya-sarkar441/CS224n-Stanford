@@ -1,7 +1,7 @@
 # Deep Learning Assignments
 
 
-This repository contains the links to the reports and the code that was used for the course on deep learning that is offered at IIT Mandi : ["CS671 - Deep Learning and Applications"](https://www.iitmandi.ac.in/academics/senate_courses/CS671.pdf). Please note that a major contribution towards this project was provided only by **Aditya Sarkar** and **Aaron T. Joseph**.
+This repository contains the links to the reports and the code that was used for the course on deep learning that is offered at IIT Mandi : ["CS671 - Deep Learning and Applications"](https://www.iitmandi.ac.in/academics/senate_courses/CS671.pdf). Please note that the major contribution towards this project was provided only by **Aditya Sarkar** and **Aaron T. Joseph**.
 
 **Table of contents**
 
