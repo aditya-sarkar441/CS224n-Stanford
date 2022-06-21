@@ -62,7 +62,7 @@ The folder contains the report, notebook and the code for the assignment 4.
 
 # License
 
-This repository is under MIT license. For more information, please read our [LICENSE.md](LICENSE) file.
+This repository is under Creative Commons license. For more information, please read our [LICENSE.md](LICENSE) file.
 
 
 # Contact
