@@ -18,7 +18,7 @@ This repository contains the links to the reports and the code that was used for
 
 # How to cite this study
 
-> A. Sarkar, A.T. Joseph, S. Ginjala, "Deep learning assignment for CS671".
+> A. Sarkar*, A.T. Joseph*, S. Ginjala, "Deep learning assignment for CS671".
 
 # Words of Caution
 
