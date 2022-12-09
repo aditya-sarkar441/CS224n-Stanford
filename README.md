@@ -18,11 +18,11 @@ This repository contains the links to the reports and the code that was used for
 
 # How to cite this study
 
-> A. Sarkar*, A.T. Joseph*, S. Ginjala, "Deep learning assignment for CS671".
+> Sarkar A., Joseph A.T., A.D. Dileep, "Deep learning assignment for CS671".
 
 # Words of Caution
 
-We have scored **95/100** in this assignment, which is the highest as per our information. A lot of efforts has been put into making the report and codes of these assignments. If you are taking certain parts of the code, please ensure that you cite it in your report.
+We have scored **95/100** in this assignment, which is the highest in the course CS671. A lot of efforts has been put into making the report and codes of these assignments. If you are taking certain parts of the code, please ensure that you cite it in your report.
 
 
 # Assignments
@@ -31,34 +31,34 @@ We have scored **95/100** in this assignment, which is the highest as per our in
 
 The folder contains the report, notebook and the code for the assignment 1. 
 
-* [Assignment 1 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 1 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 1 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
+* [Assignment 1 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671/blob/main/Assi1/)
+* [Assignment 1 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671/blob/main/Assi1/)
+* [Assignment 1 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671/blob/main/Assi1/)
 
 
 ## Assignment 2
 
 The folder contains the report, notebook and the code for the assignment 2.
 
-* [Assignment 2 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 2 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 2 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
+* [Assignment 2 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi2)
+* [Assignment 2 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi2)
+* [Assignment 2 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi2)
 
 ## Assignment 3
 
 The folder contains the report, notebook and the code for the assignment 3.
 
-* [Assignment 3 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 3 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 3 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
+* [Assignment 3 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi3)
+* [Assignment 3 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi3)
+* [Assignment 3 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi3)
 
 ## Assignment 4
 
 The folder contains the report, notebook and the code for the assignment 4.
 
-* [Assignment 4 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 4 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
-* [Assignment 4 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671)
+* [Assignment 4 Report](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi4)
+* [Assignment 4 Notebook](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi4)
+* [Assignment 4 Code](https://github.com/aditya-sarkar441/Deep-Learning-CS671/tree/main/Assi4)
 
 # License
 
